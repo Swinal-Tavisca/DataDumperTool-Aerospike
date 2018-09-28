@@ -1,0 +1,13 @@
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.exe.config
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.exe
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\DataDumperTool.pdb
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.csprojAssemblyReference.cache
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.csproj.CoreCompileInputs.cache
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.exe
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.pdb
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\AerospikeClient.dll
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\AerospikeClient.xml
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\obj\Debug\DataDumperTool.csproj.CopyComplete
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.dll
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.pdb
+C:\Users\swinal\source\repos\DataDumperTool\DataDumperTool\bin\Debug\Neo.Lua.xml
